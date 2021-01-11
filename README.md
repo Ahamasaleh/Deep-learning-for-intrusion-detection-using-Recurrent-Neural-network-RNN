@@ -1,0 +1,2 @@
+# Deep-learning-for-intrusion-detection-using-Recurrent-Neural-network-RNN
+Deep Learning techniques can be implemented in the field of cybersecurity to handle the issues related to intrusion just as they have been successfully implemented in the areas such as computer vision and natural language processing (NLP). RNN model is compared with J48, Artificial Neural Network, Random Forest, Support Vector Machine and other machine learning techniques to detect malicious attacks in terms of binary and multiclass classifications.
